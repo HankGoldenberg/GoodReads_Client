@@ -13,8 +13,12 @@ Manually adding new actions and test files to accompany
 
 1. Add test code
 -Test-
-2. Add action in proper controller
+2. Add route linking url to proper action 
 -Test-
-3. Add view who's name links it to action
+3. Add action in proper controller
 -Test-
+4. Add view who's name links it to action
+-Test-
+
+
 
