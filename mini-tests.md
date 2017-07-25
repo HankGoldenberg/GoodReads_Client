@@ -17,3 +17,9 @@ Add  --> require "minitest/reporters"
 		 Minitest::Reporters.use!
 
 to test/test_helper.rb
+
+
+Add  --> gem 'minitest', group: :test
+		 gem 'minitest-reporters', group: :test
+
+to Gemfile
