@@ -16,3 +16,4 @@ Manually adding new actions and test files to accompany
 2. Add action in proper controller
 -Test-
 3. Add view who's name links it to action
+-Test-
