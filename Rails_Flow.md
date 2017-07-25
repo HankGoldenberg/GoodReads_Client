@@ -39,4 +39,13 @@ rails generate (g) resource Book title:string author:string
 		9. .coffee and .scss files
 		10. resources :books
 
+# How to add a new resource manually
+
+	1. Generate or add the model
+	2. Migrate the models to the connected database
+	3. Generate or create the controller
+	4. Add all the base actions to the controller
+	5. Add all the routes to the route file
+	6. Add all the views to the resource view directory
+	7. Run Tests
 
